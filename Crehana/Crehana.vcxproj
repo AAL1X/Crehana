@@ -111,6 +111,41 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinarySearchTree.h" />
+    <ClInclude Include="BinaryNode.h" />
+    <ClInclude Include="Calendar.h" />
+    <ClInclude Include="Course.h" />
+    <ClInclude Include="Crehana.h" />
+    <ClInclude Include="Diploma.h" />
+    <ClInclude Include="DoubleCircularLinkedList.h" />
+    <ClInclude Include="DoubleNode.h" />
+    <ClInclude Include="HashEntity.h" />
+    <ClInclude Include="HashTable.h" />
+    <ClInclude Include="HeapNode.h" />
+    <ClInclude Include="Heap.h" />
+    <ClInclude Include="LastName.h" />
+    <ClInclude Include="Name.h" />
+    <ClInclude Include="Notification.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="QueueNode.h" />
+    <ClInclude Include="Rating.h" />
+    <ClInclude Include="Resources.h" />
+    <ClInclude Include="Session.h" />
+    <ClInclude Include="SimpleCircularLinkedList.h" />
+    <ClInclude Include="SimpleNode.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Tutor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Courses.txt" />
+    <Text Include="CrehanaDataBase.txt" />
+    <Text Include="Students.txt" />
+    <Text Include="Teachers.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

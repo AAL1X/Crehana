@@ -1,0 +1,86 @@
+16
+Algoritmo y Estructura de Datos
+CC32
+Viernes
+17:00
+19:00
+Calculo II
+CI31
+Jueves
+18:00
+21:00
+Especificacion y Analisis de Requerimientos
+SV34
+Martes
+07:00
+09:00
+Matematica Discreta
+MA38
+Lunes
+17:00
+20:00
+Matematica Computacional
+WV31
+Viernes
+13:00
+15:00
+Fisica I
+CI38
+Jueves
+11:00
+13:00
+Contabilidad y Presupuestos
+SX31
+Martes
+17:00
+19:00
+Diseno de Base de Datos
+SI40
+Viernes
+18:00
+20:00
+Diseno y Patrones de Software
+SX32
+Jueves
+20:00
+22:00
+IHC Y Tecnologias Moviles
+SI37
+Martes
+17:00
+19:00
+IIC Arts & Humanities
+G301
+Martes
+10:00
+12:00
+Fisica 2
+SI32
+Miercoles
+18:00
+21:00
+Redes y Comunicaciones de Datos
+SI64
+Martes
+19:00
+22:00
+Gerencia de Proyectos en Computacion
+WV81
+Jueves
+20:00
+23:00
+Aplicaciones para Dispositivos Moviles
+WV61
+Viernes
+15:00
+18:00
+Complejidad Algoritmica
+WS6E
+Martes
+16:00
+18:00
+ISC Matlab Basico
+G304
+Miercoles
+08:00
+10:00
